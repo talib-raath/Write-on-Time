@@ -1,0 +1,31 @@
+.about-us {
+    width: 100%;
+    padding-bottom: 5px;
+    padding-top: 1px;
+    background-color: #f2f2f2;
+    margin-right: 30px;
+}
+
+.inner-about-us {
+    margin-left: 10px;
+}
+
+.about-us h1 {
+    text-align: center;
+}
+
+.about-us-para {
+    font-family: 'Yellowtail', cursive;
+    font-size: 25px;
+    text-align: center;
+    background: linear-gradient(to right, #1E90FF, #20B2AA, #8A2BE2);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.inner-about-us section {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+}

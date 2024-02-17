@@ -1,0 +1,66 @@
+.Donate {
+  padding: 20px;
+  background-color: #f2f2f2;
+  font-family: Arial, sans-serif;
+}
+
+.Donate h1 {
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.Donate h2 {
+  font-weight: bold;
+  margin-top: 40px;
+  margin-bottom: 20px;
+}
+
+.Donate p {
+  font-size: 16px;
+  margin-bottom: 20px;
+  line-height: 1.5;
+}
+
+.Donate strong {
+  font-weight: bold;
+}
+
+.Donate ul {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 20px;
+}
+
+.Donate li {
+  font-size: 16px;
+  line-height: 1.5;
+  margin-bottom: 10px;
+}
+
+.Donate button {
+  display: block;
+  width: 100%;
+  max-width: 300px;
+  margin: auto;
+  padding: 12px 20px;
+  font-size: 20px;
+  font-weight: bold;
+  color: #fff;
+  background-color: #007bff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+}
+
+.Donate button:hover {
+  background-color: #0069d9;
+}
+
+.Donate button:active {
+  background-color: #005cbf;
+}
+
+.Donate p:last-child {
+  margin-bottom: 0;
+}
